@@ -1,0 +1,4 @@
+WS2812_DRIVER = vendor
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+LTO_ENABLE = yes
